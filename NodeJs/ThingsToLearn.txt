@@ -1,0 +1,16 @@
+closure
+event loops
+Simple html - show time - enhance to show ticker clock
+Node - node app - increase numbers
+
+react start app
+
+var - const
+.then - async
+session key
+
+save as object
+{name: 
+timestamp:
+status:} in react. Dont use bootcamp
+Have server routes in separates route. UI render separately.

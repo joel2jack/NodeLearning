@@ -1,0 +1,1 @@
+Created the react apps using create-react-app for learning components, state and props
