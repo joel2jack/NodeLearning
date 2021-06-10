@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\ReactJsLearning\\CreateReactApp\\my-second-react-app"
+		},
+		{
+			"path": "..\\ReactJsLearning\\CreateReactApp\\my-props-app"
+		},
+		{
+			"path": "..\\ReactJsLearning\\CreateReactApp\\my-state-app"
+		}
+	],
+	"settings": {}
+}

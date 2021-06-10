@@ -1,0 +1,11 @@
+State
+	- It is an object that stores the values of properties blonging to a component that could change over a period of time
+	- Can be modified by user actions or eventhandlers
+	- Renders everytime the state of an object changes
+	- State object is initialized in a constructor
+	- Can be used to store multiple properties
+	- this.setState() used to update values
+	- setState() performs a shallow merge between new and previous state
+	- Volatile and can over time
+	- Can be used only in class components
+	- Usually updated by eventHandlers 
